@@ -1,7 +1,7 @@
 {
   "block.europeanrail.crossing_signal": "Sygnalizacja przejazdu kolejowego",
   "block.europeanrail.shunt_signal": "Sygnał manewrowy",
-  "block.europeanrail.limit_of_shunt_signal": "Limit sygnału manewrowego",
+  "block.europeanrail.limit_of_shunt_signal": "Sygnał limitu manewrowania",
   "block.europeanrail.off_dispatch_signal": "Sygnał OFF",
   "block.europeanrail.signal_gantry_two": "Gantry Signal Aspect Two",
   "block.europeanrail.signal_gantry_three": "Gantry Signal Aspect Three",
@@ -36,7 +36,7 @@
   "block.europeanrail.stop_marker_9": "Znacznik zatrzymania pociągu (9)",
   "block.europeanrail.whistle_board": "Znak klaksonu",
   "block.europeanrail.overhead_neutral_section": "Znak sekcji zasilania neutralnego",
-  "block.europeanrail.cbtc_block_marker": "Marker blockowania CBTC",
+  "block.europeanrail.cbtc_block_marker": "Marker blokowania CBTC",
   "block.europeanrail.aws_cancel_sign": "Znak anulowania AWS",
   "block.europeanrail.change_current_collection_sign": "Zmiana aktualnej strefy",
   "block.europeanrail.speedboard_arrow_both": "Wskaźnik tablicy prędkości w obu kierunkach",
